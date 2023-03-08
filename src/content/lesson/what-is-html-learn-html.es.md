@@ -87,7 +87,7 @@ Los espacios son ignorados:
 
 ## Estructura de página
 
-Todas las páginas deben empezar con la declaración del  `<DOCTYPE! Html>` seguido por los tags `<html>`, luego `<head>` y por último `<body>`. Estos tags **deben** contener otros tags dentro de ellos (etiquetas anidadas), y eso es así porque separarán la página en dos pedazos principales: el HEAD (la cabeza) y el BODY (el cuerpo):
+Todas las páginas deben empezar con la declaración del  `<!DOCTYPE Html>` seguido por los tags `<html>`, luego `<head>` y por último `<body>`. Estos tags **deben** contener otros tags dentro de ellos (etiquetas anidadas), y eso es así porque separarán la página en dos pedazos principales: el HEAD (la cabeza) y el BODY (el cuerpo):
 
 
 ```html
